@@ -9,6 +9,6 @@ public class HelloController {
 
     @FXML
     protected void onExitButtonClick() {
-        welcomeText.setText("Welcome to JavaFX Application!");
+       System.exit(0);
     }
 }
