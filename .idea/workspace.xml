@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5af8e3a-2383-4a1d-8e9f-7dff7e4e4da9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/AnimalCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/CompositeAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/AnimalCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/AnimalCollection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,7 +46,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "feature/AnimalCollection",
+    "git-widget-placeholder": "feature/CompositeAnimal",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
