@@ -7,10 +7,10 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-public class HelloApplication extends Application {
+public class ZooApplication extends Application {
     @Override
     public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(HelloApplication.class.getResource("EnclosureManagerView.fxml"));
+        FXMLLoader fxmlLoader = new FXMLLoader(ZooApplication.class.getResource("EnclosureManagerView.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 320, 240);
         stage.setTitle("Zoo Application");
         stage.setScene(scene);
