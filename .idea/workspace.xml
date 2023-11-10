@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5af8e3a-2383-4a1d-8e9f-7dff7e4e4da9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/AnimalEditorViewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/EnclosureDisplayViewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/ZooApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/champlain/oop2/oop2assignement4/EnclosureManagerViewController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/champlain/oop2/oop2assignement4/EnclosureManagerView.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/champlain/oop2/oop2assignement4/EnclosureManagerView.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +57,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -69,7 +71,7 @@
       <updated>1698671086933</updated>
       <workItem from="1698671087933" duration="1343000" />
       <workItem from="1698843877146" duration="602000" />
-      <workItem from="1699383304343" duration="6970000" />
+      <workItem from="1699383304343" duration="8612000" />
     </task>
     <servers />
   </component>
